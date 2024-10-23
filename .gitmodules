@@ -1,0 +1,6 @@
+[submodule "countries-microservice"]
+	path = countries-microservice
+	url = git@github.com:Luis4Armenta/countries-microservice.git
+[submodule "authors-microservice"]
+	path = authors-microservice
+	url = git@github.com:Luis4Armenta/authors-microservice.git
