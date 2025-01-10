@@ -4,3 +4,6 @@
 [submodule "authors-microservice"]
 	path = authors-microservice
 	url = git@github.com:Luis4Armenta/authors-microservice.git
+[submodule "authors-app"]
+	path = authors-app
+	url = git@github.com:Luis4Armenta/authors-app.git
